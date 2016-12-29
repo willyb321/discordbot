@@ -10,7 +10,7 @@
   "author": "willyb321",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^10.0.1",
+    "discord.js": "^11.0.0",
     "xo": "^0.17.0"
   }
 }
