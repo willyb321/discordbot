@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^10.0.1",
-    "xo": "^0.17.0"
+    "xo": "^0.18.0"
   }
 }
